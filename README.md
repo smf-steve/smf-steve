@@ -7,7 +7,7 @@ My Github account is where I can role model the advice I have provided to develo
 ---
 Such advise has included:
 
-1. [Make an Investment in Yourself by Playing](advise.md)
+1. [Make an Investment in Yourself by Playing](advise.md#play)
 1. [Be Transparent Along your Journey](advise.md)
 1. [Coach and Be Coachable](advise.md)
 
@@ -52,14 +52,28 @@ I am especially interested in learning
 
 ## 📫 How to reach me: ...
 
+
+
+[<img align="left" alt="smf-steve | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="smf | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" />][email]
+<!-- [<img align="left" alt="smf | Web" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][web]
+-->
+
+<br />
+<br />
+
+<!-- From https://github.com/anuraghazra/github-readme-stats & https://github.com/codeSTACKr/codeSTACKr -->
+<details>
+  <summary>Latest GitHub Statistics</summary>
+    <img alt="luisjg github stats" src="https://github-readme-stats.vercel.app/api?username=smf-steve&count_private=true&hide_border=false" />
+</details>
+
+
+
 [linkedin]: https://www.linkedin.com/in/steve-fitzgerald-6297554/
 [email]: mailto:smf.steve.fitzgerald@gmail.com
 [web]: https://smf-steve.github.io
-[web]: https://github.com/smf-steve
 
-
-
-##
 
 <!--
 **smf-steve/smf-steve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
