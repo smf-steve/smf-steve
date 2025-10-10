@@ -1,5 +1,6 @@
+# Advise Recap
 
-1. Make an Investment in Yourself by Playing
+1. <a name="play">Make an Investment in Yourself by Playing </a>
 
    Work on projects, any project -- it need not be a requirement for a class or a job.  Such work will improve your understanding of the problem at hand and possible solutions.  
 
