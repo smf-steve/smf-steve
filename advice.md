@@ -1,4 +1,4 @@
-# Advise Recap
+# Advice Recap
 
 ### Make an Investment in Yourself by Playing
 
@@ -7,7 +7,7 @@
    Even if it is a throw-away project, your efforts will be rewarded with learning new tidbits, tools, and techniques.
 
 
-   [^1] **Play**: _to engage in activities for enjoyment and recreation rather than a serious or practical purpose_
+   [^1]: **Play**: _to engage in activities for enjoyment and recreation rather than a serious or practical purpose_
 
 
 ### Be Transparent Along your Journey
@@ -26,4 +26,4 @@
    When receiving feedback, listen to the spirit of the message and not necessarily on how it is couched. Listen carefully to extract the most meaningful nuggets.  You are the opportunity to react in the most productive way.
 
 
-   [^2] **Critical**: _expressing or involving an analysis of the merits and faults of a work_
+   [^2]: **Critical**: _expressing or involving an analysis of the merits and faults of a work_

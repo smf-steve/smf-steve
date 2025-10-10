@@ -4,11 +4,11 @@ I am a retired Professor of Computer Science.  During my career, I have held adm
 
 My Github account is where I can role model the advice I have provided to developing and established and CS/CIT professionals throughout my career. I might even be able to provide something of value to others.
 
-Such advise has included:
+Such advice has included:
 
-1. [Make an Investment in Yourself by Playing](advise.md#play)
-1. [Be Transparent Along your Journey](advise.md#transparent)
-1. [Coach and Be Coachable](advise.md#coach-and-be-coachable)
+1. [Make an Investment in Yourself by Playing](advice.md#play)
+1. [Be Transparent Along your Journey](advice.md#transparent)
+1. [Coach and Be Coachable](advice.md#coach-and-be-coachable)
 
 
 ## 🔭 I’m currently playing with ...
