@@ -24,19 +24,17 @@ Here is the list of my current or most recent projects for anyone to see.
      - considering a different approach and utility for command line processing
 
   1. Roman Numerals 
-     - conversion from Arabic numbers to roman numbers
-     - parsing of roman numbers 
-
      > [!NOTE]
      > On hold, looking at better ways to do command line processing.
 
+     - conversion from Arabic numbers to roman numbers
+     - parsing of roman numbers 
 
+ 
 I will be making incremental improvements on these projects over time. My commits will illustrate my journey and should not be consider a plateau of development.
 
 
-## 💬 Provide Your Thoughts and Feedback 📫 
-
-<a href=" mailto:smf.steve.fitzgerald@gmail.com">📫 </a>
+## 💬 Provide Your Thoughts and Feedback (<a href="mailto:smf.steve.fitzgerald@gmail.com">Via email 📫 </a>)
 
 I encourage you to provide me with any and all feedback. I will greatly appreciate your time and effort.
 
@@ -58,32 +56,13 @@ I am especially interested in learning:
       - my spelling is atrocious. 
 
 
-## 📫 How to reach me: ...
-
-
-
-[<img align="left" alt="smf-steve | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="smf | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" />][email]
-<!-- [<img align="left" alt="smf | Web" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][web]
--->
-
-<br />
-<br />
-
 <!-- From https://github.com/anuraghazra/github-readme-stats & https://github.com/codeSTACKr/codeSTACKr -->
 <details>
   <summary>Latest GitHub Statistics</summary>
     <img alt="smf-steve github stats" src="https://github-readme-stats.vercel.app/api?username=smf-steve&count_private=true&hide_border=false" />
-    <img alt="smf-steve github stats" src="https://github-readme-stats.vercel.app/api?username=comp110&count_private=true&hide_border=false" />
-
-
 </details>
 
 
-
-[linkedin]: https://www.linkedin.com/in/steve-fitzgerald-6297554/
-[email]: mailto:smf.steve.fitzgerald@gmail.com
-[web]: https://smf-steve.github.io
 
 
 <!--
