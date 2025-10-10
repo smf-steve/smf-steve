@@ -11,44 +11,51 @@ Such advise has included:
 1. [Be Transparent Along your Journey](advise.md#transparent)
 1. [Coach and Be Coachable](advise.md#coach-and-be-coachable)
 
-coach-and-be-coachable
 ----
-Below is a list of my current/most active projects, for anyone to see. 
 
-I will be making incremental improvements on these projects over time. My commits will illustrate my journey and should not be consider a plateau of development.
+## 🔭 I’m currently playing on ...
+Here is the list of my current or most recent projects for anyone to see.
 
-I encourage you to provide me with any and all feedback. I will greatly appreciate your time and effort.
-
-
-I am especially interested in learning
-
-   - what other projects I should pursue (perhaps it leads to collaboration)
-   - what previous project that needs work (hopefully because you find it useful)
-   - what you know that I should and don't (e.g. a reference to others work
-   - what bonehead approach I made that I should reconsider 
-   - what words I have spelt wrong -- my spelling is atrocious. 
-
-
-## 🔭 I’m currently learning and working on ...
   1. This README file, and how to better present my activities
 
   1. Command Line Processing Techniques
      - review of the `getopts` utility
-     - learning of the gnu version of the `getopt` utility
-     - consider a different approach and utility for command line processing
+     - learning the gnu version of the `getopt` utility
+     - considering a different approach and utility for command line processing
 
   1. Roman Numerals 
      - conversion from Arabic numbers to roman numbers
      - parsing of roman numbers 
 
+     > [!NOTE]
+     > On hold, looking at better ways to do command line processing.
 
-## 🌱 I’m currently learning ...
 
-  1. Various Programming Languages: Typescript, Javascript, 
+I will be making incremental improvements on these projects over time. My commits will illustrate my journey and should not be consider a plateau of development.
 
-  1. MIPS and ARM Architecture and Processing
 
-  1. Something else
+## 💬 Provide Your Thoughts and Feedback 📫 
+
+<a href=" mailto:smf.steve.fitzgerald@gmail.com">📫 </a>
+
+I encourage you to provide me with any and all feedback. I will greatly appreciate your time and effort.
+
+I am especially interested in learning:
+
+   1. what other projects I should pursue 
+      - perhaps it will lead to collaboration
+
+   1. what previous project that needs work 
+      - hopefully because you find it useful
+
+   1. what you know that I should and don't 
+      - E.g., this project is superfluous checkout {link}
+
+   1. what bonehead approach I made that I should reconsider 
+      - E.g., Hey! try {technique} instead
+
+   1. what is unclear in my documentation or what words I have spelt wrong 
+      - my spelling is atrocious. 
 
 
 ## 📫 How to reach me: ...
@@ -66,7 +73,10 @@ I am especially interested in learning
 <!-- From https://github.com/anuraghazra/github-readme-stats & https://github.com/codeSTACKr/codeSTACKr -->
 <details>
   <summary>Latest GitHub Statistics</summary>
-    <img alt="luisjg github stats" src="https://github-readme-stats.vercel.app/api?username=smf-steve&count_private=true&hide_border=false" />
+    <img alt="smf-steve github stats" src="https://github-readme-stats.vercel.app/api?username=smf-steve&count_private=true&hide_border=false" />
+    <img alt="smf-steve github stats" src="https://github-readme-stats.vercel.app/api?username=comp110&count_private=true&hide_border=false" />
+
+
 </details>
 
 
