@@ -10,14 +10,14 @@
    "Play": to engage in activities for enjoyment and recreation rather than a serious or practical purpose.
 
 
-1. Be Transparent Along your Journey
+1. <a name="transparent">Be Transparent Along your Journey</a>
 
    Showcase your activities, e.g., via a public repository, where others can see and use the results of all your efforts.  But don't wait till you achieve perfection, allow them to see both your working solutions but also your missteps along the way.  
 
    We don't learn at the precipice of success, but during the individual steps and missteps along the journey.  So commit early and commit often -- without fear. 
 
 
-1. Coach and Be Coachable.
+1. <a name="coachable">Coach and Be Coachable</a>
 
    We all learn through critical feedback.  We need to acknowledge that effective feedback requires kindness, time, and effort.  We also need to acknowledge, that it is typical that feedback is met with defensiveness.  
 

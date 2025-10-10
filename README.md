@@ -8,8 +8,8 @@ My Github account is where I can role model the advice I have provided to develo
 Such advise has included:
 
 1. [Make an Investment in Yourself by Playing](advise.md#play)
-1. [Be Transparent Along your Journey](advise.md)
-1. [Coach and Be Coachable](advise.md)
+1. [Be Transparent Along your Journey](advise.md#transparent)
+1. [Coach and Be Coachable](advise.md#coachable)
 
 ----
 Below is a list of my current/most active projects, for anyone to see. 
