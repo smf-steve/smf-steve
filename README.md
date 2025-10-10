@@ -22,13 +22,9 @@ Here is the list of my current or most recent projects for anyone to see.
      - considering a different approach and utility for command line processing
 
   1. Roman Numerals 
-  > [!NOTE]
-  > On hold, looking at better ways to do command line processing.
-
      - conversion from Arabic numbers to roman numbers
      - parsing of roman numbers 
 
- 
 I will be making incremental improvements on these projects over time. My commits will illustrate my journey and should not be consider a plateau of development.
 
 
